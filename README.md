@@ -20,7 +20,7 @@ You'll get just a django project with some useful things such as:
 
 In order to use this template, you need to:
 ```bash
-django-admin.py startproject --template https://github.com/nskeip/django-skel2/zipball/simple --extension py,md,ini YOUR_PROJECT_NAME
+django-admin.py startproject --template https://github.com/signception/django-skel2/zipball/simple --extension py,md,ini YOUR_PROJECT_NAME
 cd YOUR_PROJECT_NAME
 python manage.py syncdb
 ```
@@ -38,7 +38,7 @@ You get (out of the box):
 
 In order to use this template, you need to:
 ```bash
-django-admin.py startproject --template https://github.com/nskeip/django-skel2/zipball/favs --extension py,md,ini YOUR_PROJECT_NAME
+django-admin.py startproject --template https://github.com/signception/django-skel2/zipball/favs --extension py,md,ini YOUR_PROJECT_NAME
 cd YOUR_PROJECT_NAME
 python manage.py syncdb
 python manage.py migrate
@@ -49,7 +49,7 @@ Django CMS added to Favorites template.
 
 Usage:
 ```bash
-django-admin.py startproject --template https://github.com/nskeip/django-skel2/zipball/django-cms --extension py,md,ini YOUR_PROJECT_NAME
+django-admin.py startproject --template https://github.com/signception/django-skel2/zipball/django-cms --extension py,md,ini YOUR_PROJECT_NAME
 cd YOUR_PROJECT_NAME
 python manage.py syncdb
 python manage.py migrate
