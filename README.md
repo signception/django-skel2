@@ -13,7 +13,7 @@ You'll get just a django project with some useful things such as:
 * media, static, templates and fixtures directories (and settings.py knows them!)
 * default templates: base.html, 400.html, 500.html
 * readme template
-* /admin/ panel
+* /admin/ panel + signception logo in static
 * chmoded manage.py
 * pythonic .gitignore
 * uwsgi.ini
